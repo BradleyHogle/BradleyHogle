@@ -1,16 +1,15 @@
-### Hi there 👋
+## Hey there, I'm Bradley Hogle
 
-<!--
-**BradleyHogle/BradleyHogle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software developer at a brick-and-mortar business called PhotoVision. I'm biased, but I think we're one of the top film photography labs in the country.
 
-Here are some ideas to get you started:
+### My journey at PhotoVision so far:
+- Frontend ->
+- Elixir/Phoenix ->
+- More frontend ->
+- A little C# / .net ->
+- More frontend ->
+- Diagnosed with JEF (Javascript Ecosystem Fatigue*) ->
+- Python (Django, but also random things)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+*If you also worry you have JEF, speak with a professional today. And though I am a non-medical provider, consider SolidJS, Astro, or Svelte the next time you want to start a greenfield project.
