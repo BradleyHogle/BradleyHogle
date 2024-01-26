@@ -3,9 +3,12 @@
 I'm a software developer at a brick-and-mortar business called PhotoVision. I'm biased, but I think we're one of the top film photography labs in the country.
 
 ### My journey at PhotoVision so far:
-- Frontend ->
+- Frontend* ->
 - Elixir/Phoenix ->
-- More frontend ->
+- More frontend* ->
 - A little C# / .net ->
-- More frontend ->
+- More frontend* ->
 - Python (Django, but also random things)
+
+
+*Custom Javascript/Typescript, as well as a jumble of React, SolidJS, NextJS, Astro.
