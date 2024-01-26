@@ -8,8 +8,4 @@ I'm a software developer at a brick-and-mortar business called PhotoVision. I'm 
 - More frontend ->
 - A little C# / .net ->
 - More frontend ->
-- Diagnosed with JEF (Javascript Ecosystem Fatigue*) ->
 - Python (Django, but also random things)
-
-
-*If you worry that you also might have JEF, speak with a professional today. And though I am a non-medical provider, consider SolidJS, Astro, or Svelte the next time you want to start a greenfield project.
