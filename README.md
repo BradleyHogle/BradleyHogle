@@ -11,4 +11,4 @@ I'm a software developer at a brick-and-mortar business called PhotoVision. I'm 
 - Python (Django, but also random things)
 
 
-*Custom Javascript/Typescript, as well as a jumble of React, SolidJS, NextJS, Astro.
+*Custom Javascript/Typescript, as well as some React, SolidJS, NextJS, Astro.
