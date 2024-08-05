@@ -6,9 +6,6 @@ I'm a software developer at a brick-and-mortar business called PhotoVision. I'm 
 - Frontend* ->
 - Elixir/Phoenix ->
 - More frontend* ->
-- A little C# / .net ->
-- More frontend* ->
-- Python (Django, but also random things)
-
+- Python (Django, FastAPI)
 
 *Custom Javascript/Typescript, as well as some React, SolidJS, NextJS, Astro.
