@@ -12,6 +12,6 @@ I'm a software developer at a brick-and-mortar business called PhotoVision. I'm 
 - Owned end to end delivery of high-throughput image processing, e-commerce workflows, and internal production systems for a national photography lab.
 - Led the development of a custom image delivery application using Python and Django, achieving a 300% savings in Dropbox API fees and delivering 22,000+ image galleries to over 3,300 customers to date. Serves resized images from cloud storage via AWS S3, lightweight custom JS/CSS frontend for customer-facing galleries
 - Guided 3-member team in the creation of a color-correction training application in Rails. The team repurposed the application as a customer-facing game attracting 138 users. Custom frontend via the Canvas API and Hotwire, Chart.js to visualize user statistics, Square payment integration
-- Improved website Lighthouse scores from the 60s to the high 90s. Refactored front-end JavaScript to user faster image loading and image caching strategies
+- Improved website Lighthouse scores from the 60s to the high 90s. Refactored front-end JavaScript to use faster image loading and image caching strategies
 - Surveyed front-desk employees to identify inefficient workflow, then automated order processes (83% reduction of labor time) using Python/Flask.
 - Modernized image processing infrastructure to an HTTP-based Python/FastAPI internal image transfer system, resolving costly networking issues.
